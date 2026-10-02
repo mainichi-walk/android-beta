@@ -1,0 +1,11 @@
+{
+  "beta": null,
+  "check": {
+    "versionCode": 1,
+    "versionName": "0.1.0-beta",
+    "sizeBytes": 13061483,
+    "sha256": "2a36f75d97c1fbc3da9eebc7ae83bf87a559cd44b87d4445f5521c85cec2dac0",
+    "commit": "02f6728",
+    "publishedAt": "2026-10-02T09:31+09:00"
+  }
+}
