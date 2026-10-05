@@ -1,0 +1,19 @@
+{
+  "beta": {
+    "versionCode": 1,
+    "versionName": "0.1.0-beta",
+    "sizeBytes": 13077931,
+    "sha256": "9c98f3b226bea0d78c40514c22e212c44c7b5acf74de072968c9136beb808a54",
+    "commit": "7dddf80",
+    "publishedAt": "2026-10-04T19:50+09:00",
+    "placedAt": "2026-10-04T18:28+09:00"
+  },
+  "check": {
+    "versionCode": 2,
+    "versionName": "0.1.1-beta",
+    "sizeBytes": 13077931,
+    "sha256": "52c7a62bba9750e261f28287d1858b877bbd170859e2dad4907575c5e23baa9d",
+    "commit": "f1dc89e",
+    "publishedAt": "2026-10-05T09:21+09:00"
+  }
+}
