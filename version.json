@@ -1,0 +1,11 @@
+{
+  "beta": {
+    "versionCode": 9,
+    "versionName": "0.1.8-beta",
+    "sizeBytes": 13183675,
+    "sha256": "dafaa3b11a561dda5e8d05e7495c34ca679149127b34a6365693c433d190194c",
+    "commit": "85e3a69",
+    "publishedAt": "2026-11-13T22:34+09:00"
+  },
+  "check": null
+}
